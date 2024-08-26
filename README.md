@@ -4,7 +4,7 @@
 
 This project implements a comprehensive real estate data analytics pipeline using Azure cloud services and advanced data engineering techniques. It transforms raw property data from Maharashtra into actionable insights through automated collection, processing, and visualization.
 
-![Architecture Diagram](path/to/your/architecture/image.png)
+![Architecture Diagram](https://github.com/MonishGosar/Real-Estate-Dashboard-/blob/main/img.png)
 
 ## Key Features
 
